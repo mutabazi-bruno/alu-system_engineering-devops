@@ -1,3 +1,5 @@
 #!/usr/bin/env bash
-# Creating a new SSH key pair
+#created private key must be school
+#bits = 4096
+#passphrase betty
 ssh-keygen -f school -b 4096 -N betty
